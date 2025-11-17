@@ -1,2 +1,2 @@
-Este es el archivo3.txt
-Creado en la nueva rama
+ejemplo 1 linea 1
+2 nea linea 2 1
